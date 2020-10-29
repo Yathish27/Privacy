@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(bg.JFIF);
+    background-size:cover;
+    background-position:center;
+    font-famiy:sans-serif;
+}
+h1{
+    margin:0;
+    padding:10px;
+    text-align: center;
+    text-color:red;
+    font-size: 25px;
+}
+p{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-size: 22px;
+}
